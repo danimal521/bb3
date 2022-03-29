@@ -17,4 +17,4 @@ patchesStrategicMerge:
   spec:
     ref:
       $patch: replace
-      tag: "1.29.0"
+      tag: "1.27.0"
